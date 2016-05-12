@@ -1,0 +1,11 @@
+diff a/Codefile.txt b/Codefile.txt	(rejected hunks)
+@@ -6,4 +6,6 @@
+ 
+ This is the second edit done by developer1.
+ 
+-This Edits are done by Design Developer2
+\ No newline at end of file
++This Edits are done by Design Developer2
++
++This Is Design Edits in Source tree
+\ No newline at end of file
